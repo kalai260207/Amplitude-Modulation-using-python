@@ -67,7 +67,7 @@ Output Waveform:
 ![WhatsApp Image 2025-11-25 at 10 50 02 PM](https://github.com/user-attachments/assets/1081a7bc-bf63-4816-8c83-42b7e923eb86)
 
 TABULATION:
-![WhatsApp Image 2025-11-25 at 10 51 35 PM](https://github.com/user-attachments/assets/a233bc45-bb38-4623-bdbc-994edd0c4bb4)
+![WhatsApp Image 2025-12-04 at 3 40 14 PM](https://github.com/user-attachments/assets/5f09096e-27a5-41a0-a1b7-ff77d6d6c570)
 
 Calculation:
 ![WhatsApp Image 2025-11-25 at 10 51 56 PM](https://github.com/user-attachments/assets/519b73da-b818-405f-8c9a-4e9bf70c6ba3)
